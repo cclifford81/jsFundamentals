@@ -1,0 +1,33 @@
+<style>
+#title {
+    color: lightgreen;
+    text-align: center;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.main {
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: grey;
+}
+
+.truthLie {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.align {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+</style>
