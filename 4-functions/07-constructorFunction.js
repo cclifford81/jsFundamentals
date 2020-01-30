@@ -3,10 +3,6 @@ constructor function helps automat object creation
 BEST PRACTICE Constructor Function Starts with Captial letter
 */
 
-
-
-
-
 // (1)      (2)        (3) 
 function Person(name, age, canVote){
 //   (4)  (5)    (6) 

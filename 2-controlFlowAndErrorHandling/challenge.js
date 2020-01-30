@@ -47,5 +47,4 @@ If(age >=25)
 } else if (age >= 17) {
     console.log("Sorry, you're too young to do anything.");
 }
-
-    
+ 
